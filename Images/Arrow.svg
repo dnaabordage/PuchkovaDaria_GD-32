@@ -1,0 +1,14 @@
+<svg id="Arrow" xmlns="http://www.w3.org/2000/svg" width="141.03" height="55" viewBox="0 0 141.03 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #232323;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Line" class="cls-1" d="M1296.34,3613.08l26.55,26.42-26.55,26.42" transform="translate(-1184 -3612)"/>
+  <path id="Line-2" data-name="Line" class="cls-1" d="M1184,3639l139.25-.25" transform="translate(-1184 -3612)"/>
+</svg>
